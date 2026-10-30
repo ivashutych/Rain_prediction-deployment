@@ -16,4 +16,5 @@
 Python, Scikit-learn, Pandas, Streamlit, Joblib.
 
 ### Посилання на застосунок
-Буде додано після розгортання.
+https://rainprediction-deployment-epzs25famugatsddweb8wt.streamlit.app/
+
